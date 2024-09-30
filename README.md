@@ -22,24 +22,55 @@
 - node >= 9.3.0
 
 ## Install 
-<div style="margin: 0px; padding: 2px; border: 1px solid #ddd; border-radius: 0px; background-color: powderblue;">
+<div style="margin: 0px; padding: 2px; border: 1px solid #ddd; border-radius: 0px; background-color: #d0e0e3;">
     <span style="color: black;">npm install</span> 
 </div>
 
 ## Usage
-<div style="margin: 0px; padding: 2px; border: 1px solid #ddd; border-radius: 0px; background-color: powderblue;">
+<div style="margin: 0px; padding: 2px; border: 1px solid #ddd; border-radius: 0px; background-color: #d0e0e3;">
     <span style="color: black;">npm run start</span> 
 </div>
 
 ## Run tests
-<div style="margin: 0px; padding: 2px; border: 1px solid #ddd; border-radius: 0px; background-color: powderblue;">
+<div style="margin: 0px; padding: 2px; border: 1px solid #ddd; border-radius: 0px; background-color: #d0e0e3;">
     <span style="color: black;">npm run test</span> 
 </div>
 
 ## Autor
+<h5> 🧑🏻‍💼 Wallace Cardoso</h5>
+
+<div style="margin: 0px; padding: 2px; border: 1px solid #ddd; border-radius: 0px; background-color: white;">
+<span style="color: black;">- Twitter/X: @wallaceleonnecardoso</span> 
+</div>
+<div style="margin: 0px; padding: 2px; border: 1px solid #ddd; border-radius: 0px; background-color: white;">
+<span style="color: black;">- Github: @wallaceleonnecardoso</span> 
+</div>
 
 ## 🤝 Contributing
+<div>
+<a>
+Contribuitions, issues and feature requests are welcome!
+Feel free ti check issues page
+</a>
+</div>
 
 ## Show your support
+<div>
+<a>
+Give a ⭐ if this project helped you!
+</a>
+</div>
+<div>
+<button style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 0px; background-color: #f5584c;">
+| BECOME A PATRON
+</button>
+</div>
 
-## License
+
+## 📝 License
+<div>
+<a>
+Contribuitions, issues and feature requests are welcome!
+Feel free ti check issues page
+</a>
+</div>
